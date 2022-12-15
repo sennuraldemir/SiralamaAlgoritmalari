@@ -19,6 +19,11 @@ public class SiralamaAlgoritmalari {
         b.BubbleSort();
         b.print();
         
+        SelectionSort s = new SelectionSort(d);
+        
+        s.print();
+        s.SelectionSort();
+        s.print();
         
         
 
